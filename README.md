@@ -25,15 +25,6 @@ Either way, you'll then end up at the `https://github.com/new` page:
 
 <img src="images/github_new.png" width=550>
 
-
-```python
-ls images/
-```
-
-    git_practice_new.png       repos_page_new_button.png
-    github_new.png
-
-
 Here, you have several options to go through:
 
 1. Naming the repository
@@ -53,15 +44,6 @@ For now, name the repository `git_practice`, select pulbic and **do NOT check th
 Then click create repository.
 
 <img src="images/git_practice_new.png" width=550>
-
-
-```python
-ls images/
-```
-
-    git_practice_blank_repo.png  github_new.png
-    git_practice_new.png         repos_page_new_button.png
-
 
 You'll see a page like this:
 
