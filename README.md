@@ -85,7 +85,7 @@ Again, now that you have an overview, let's have at it!
 
 * `echo "# git_practice" >> README.md` as described works perfectly well
 * Alternatively, if you're feeling adventurous, you can try a text editor such as nano, vim or emacs.
-    * If you're going the adventorous route, try `nano README.txt` for now and then type "# git_practice" in the file. Press "Ctrl+X" to quit and press "Y" to confirm you wish to save your changes.
+    * If you're going the adventurous route, try `nano README.txt` for now and then type "# git_practice" in the file. Press "Ctrl+X" to quit and press "Y" to confirm you wish to save your changes.
 
 
 ## Git Status
