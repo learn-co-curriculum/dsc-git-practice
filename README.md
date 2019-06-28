@@ -40,7 +40,7 @@ Here, you have several options to go through:
         2. If you don't check this box, then you will start from your local computer and then attach that work to the online repository.
 
 
-For now, name the repository `git_practice`, select pulbic and **do NOT check the readme box**.
+For now, name the repository `git_practice`, select public and **do NOT check the readme box**.
 Then click create repository.
 
 <img src="images/git_practice_new.png" width=550>
