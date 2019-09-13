@@ -94,7 +94,7 @@ While not required, let's get familiar with what's going on with `git status`.
 
 ## Git Add
 
-Add your file. You can use `git add README.md` or `git add --all` (if there were multiple file you would add all of them)
+Add your file. You can use `git add README.md` or `git add --all` (if there were multiple files, you would add all of them)
 
 ## Git Status
 
@@ -106,7 +106,7 @@ Now that we've added or files, we're ready to finalize them to our version histo
 
 ## Add a Remote Location
 
-Again, remember that git itself is a version control system that can be used anywhere. Github is an online hosting platform allowing us to take git repositories to the cloud to share and collaborate. By adding a remote location, we are able to sync our work between online and offline and collaborate with other. The `origin` is simply a default naming convention symbolizing that the online version will be the central source of truth for this repository.
+Again, remember that git itself is a version control system that can be used anywhere. Github is an online hosting platform allowing us to take git repositories to the cloud to share and collaborate. By adding a remote location, we are able to sync our work between online and offline and collaborate with others. The `origin` is simply a default naming convention symbolizing that the online version will be the central source of truth for this repository.
 
 With that, we can set it up with
 
