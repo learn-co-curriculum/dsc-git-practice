@@ -9,9 +9,9 @@ Now that you've seen a little bit of the bash shell and cloned a Git repository 
 
 You will be able to:
 
-* Create a new GitHub repo online
-* Initialize a GitHub repo from the command line
-* Add, commit, and push changes via Git
+* Create a new git repository
+* Compare local and remote repositories
+* Use `git add`, `git commit`, and `git push` to make changes to a repository
 
 ## Creating a New Git Repository
 
