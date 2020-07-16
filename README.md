@@ -19,7 +19,7 @@ In order to create a new Git repository, start by going to `https://github.com/n
 
 (Alternatively, you can click the New button under the repositories tab of you profile page)
 
-<img src = "images/repos_page_new_button.png" width=550>
+<img src="images/repos_page_new_button.png" width=550>
 
 Either way, you'll then end up at the `https://github.com/new` page:
 
