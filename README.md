@@ -65,7 +65,7 @@ Again, now that you have an overview, let's have at it!
 ## Create a new directory for your repo
 
 * Open up your command line (mac: terminal, windows: git bash) 
-* Navigate to the appropriate directory such as /Documents/Flatiron/Module_2_Git_Bash (or however you plan to organize your course materials)
+* Navigate to the appropriate directory such as /Documents/Flatiron/Module\_2\_Git\_Bash (or however you plan to organize your course materials)
 * Create a new folder for this lesson `mkdir git_practice`
 
 ## Navigate into your new folder
