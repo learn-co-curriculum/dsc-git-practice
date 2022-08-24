@@ -1,4 +1,3 @@
-
 # Git Practice
 
 ## Introduction
@@ -47,7 +46,10 @@ Then click create repository.
 
 You'll see a page like this:
 
+> Note: The screenshots here use the word `master` which is a legacy term that is still used in GitHub. It is more common now, and what you are likely to see, is `main`.
+
 <img src="images/git_practice_blank_repo.png" width=550>
+
 
 This says it all!
 
