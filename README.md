@@ -18,11 +18,11 @@ In order to create a new Git repository, start by going to `https://github.com/n
 
 (Alternatively, you can click the New button under the repositories tab of you profile page)
 
-<img src="images/repos_page_new_button.png" width=550>
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-git-practice/master/images/repos_page_new_button.png" width=550>
 
 Either way, you'll then end up at the `https://github.com/new` page:
 
-<img src="images/github_new.png" width=550>
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-git-practice/master/images/github_new.png" width=550>
 
 Here, you have several fields to go through:
 
@@ -42,13 +42,13 @@ Here, you have several fields to go through:
 For now, name the repository `git_practice`, select public and **do NOT check the readme box**.
 Then click create repository.
 
-<img src="images/git_practice_new.png" width=550>
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-git-practice/master/images/git_practice_new.png" width=550>
 
 You'll see a page like this:
 
 > Note: The screenshots here use the word `master` which is a legacy term that is still used in GitHub. It is more common now, and what you are likely to see, is `main`.
 
-<img src="images/git_practice_blank_repo.png" width=550>
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-git-practice/master/images/git_practice_blank_repo.png" width=550>
 
 
 This says it all!
@@ -121,7 +121,7 @@ If you are wondering what `master` is, it's the name of our branch. You can use 
 
 Now that you've pushed your changes online, refresh the GitHub page. You should now see a little page like this:
 
-<img src="images/git_repo.png" width=550>
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-git-practice/master/images/git_repo.png" width=550>
 
 Congratulations! You just created your first Git repository!
 
