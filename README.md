@@ -113,9 +113,9 @@ Generally, it's easiest to simply copy and paste from the code provided by GitHu
 
 ## Pushing our changes
 
-We've already added our **README.md** file to Git and commited the changes. While these changes are present and up to date (take a look at `git status` again), they are not reflected online yet as we haven't synced our updates with our online version. To do this, type `git push origin main`.  
+We've already added our **README.md** file to Git and committed the changes. While these changes are present and up to date (take a look at `git status` again), they are not reflected online yet as we haven't synced our updates with our online version. To do this, type `git push origin main`.  
 
-If you are wondering what `main` is, it's the name of our branch. You can use branches in git to seperate versions of code from each other. A common example comes from web development for production environments. The `main` branch usually contains the working code for the website or app in production, and then other branches can be created for developing updates and new features, while not breaking the current working version. `main` is the default branch for all Git repositories, and we'll take a further look into branches in general in the upcoming lessons.
+If you are wondering what `main` is, it's the name of our branch. You can use branches in git to separate versions of code from each other. A common example comes from web development for production environments. The `main` branch usually contains the working code for the website or app in production, and then other branches can be created for developing updates and new features, while not breaking the current working version. `main` is the default branch for all Git repositories, and we'll take a further look into branches in general in the upcoming lessons.
 
 ## Previewing Changes
 
@@ -127,4 +127,4 @@ Congratulations! You just created your first Git repository!
 
 ## Summary
 
-In this lesson, we continued to practice our bash skills with the command line and started practicing our version control skills with Git. We created our first Git repository from scratch, and practiced adding, commiting, and pushing those changes to GitHub.
+In this lesson, we continued to practice our bash skills with the command line and started practicing our version control skills with Git. We created our first Git repository from scratch, and practiced adding, committing, and pushing those changes to GitHub.
